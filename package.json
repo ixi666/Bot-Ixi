@@ -1,7 +1,7 @@
 {
-    "name": "TheMystic-Bot-MD",
+    "name": "Ixxi",
     "version": "1.0.0",
-    "description": "Subscribete al canal de YT The Shadow Borkers",
+    "description": "Subscribete al canal de YT penudo6600",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -14,13 +14,13 @@
         "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
         "db": "node . --autocleartmp --db 'mongodb+srv://BrunoSobrino:Akhmad6825@cluster0.mflne.mongodb.net/TheMystic-Bot-MD?retryWrites=true&w=majority'"
     },
-    "homepage": "https://github.com/BrunoSobrino",
+    "homepage": "https://github.com/Ixxi",
     "author": {
         "name": "BrunoSobrino"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+        "url": "git+https://github.com/Ixxi/Bot-Ixxi"
     },
     "bugs": {
         "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
