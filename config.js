@@ -61,7 +61,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = 'ixxi'
+global.author = 'ixi'
 
 global.wm = 'By ixxi'
 global.igfg = 'By ixxi'
@@ -90,3 +90,4 @@ watchFile(file, () => {
   console.log(chalk.redBright("Update 'config.js'"))
   import(`${file}?update=${Date.now()}`)
 })
+
