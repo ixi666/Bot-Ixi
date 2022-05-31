@@ -61,7 +61,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = 'ixi'
+global.author = 'ixxi'
 
 global.wm = 'By ixxi'
 global.igfg = 'By ixxi'
